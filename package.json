@@ -1,12 +1,12 @@
 {
-  "name": "riot-tutorial-tags-pack-app",
+  "name": "riot-ui-builder",
   "version": "0.0.1",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/ivan-saorin/riot-tutorial-tags-pack-app.git"
+    "url" : "https://github.com/ivan-saorin/riot-ui-builder.git"
   },
-  "description": "Example external tags library for riot",
-  "keywords": ["riot", "tutorial", "example"],
+  "description": "A rich UI builder written in HTML5 and riotjs inspired by https://github.com/michelson/dante",
+  "keywords": ["riot", "ui-builder", "ui", "builder"],
   "homepage": "",
   "license": "MIT",
   "author": {
